@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghandylan&label=Profile%20views&color=0e75b6&style=flat" alt="ghandylan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghandylan&title=Commit,Stars,Repositories&theme=tokyonight" alt="ghandylan" /></a> </p>
-<p align="left"> I'm Dylan, an infomation technology student from Mapúa University. I am very interested in Python and am currently learning Flask for backend. Learning new tech is one of my pastimes, because it makes me excited and busy. Someday, I would like to become a back-end developer. If you would like to work with me, please don't hesitate to contact me.</p>
+<p align="left"> I'm Dylan, an infomation technology student from Mapúa University. I am very interested in Python and am currently learning Flask for backend. Learning new tech is one of my pastimes, because it makes me excited and busy. Someday, I would like to become a back-end developer. If you would like to together, please don't hesitate to contact me.</p>
 
 
 <h3 align="left">Connect with me:</h3>
