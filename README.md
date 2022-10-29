@@ -3,7 +3,6 @@
 <a href="https://linkedin.com/in/dylantayag" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylantayag" height="30" width="40" /></a>
 <a href="https://fb.com/ghandylan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghandylan" height="30" width="40" /></a>
 <a href="https://instagram.com/ghandylan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghandylan" height="30" width="40" /></a>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'> 
 <br>
 <h3 align="left">Student. Programmer.</h3>
 
