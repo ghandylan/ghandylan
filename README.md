@@ -4,7 +4,7 @@
 <a href="https://fb.com/ghandylan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghandylan" height="30" width="40" /></a>
 <a href="https://instagram.com/ghandylan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghandylan" height="30" width="40" /></a>
 <br>
-<h3 align="left">Student. Gamer. Programmer</h3>
+<h3 align="left">Student. Programmer.</h3>
 
 <p align="left"> I'm Dylan, an infomation technology student from Mapúa University. 
 I am very interested in Python and am currently learning Flask for backend. 
