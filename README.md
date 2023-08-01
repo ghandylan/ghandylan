@@ -5,6 +5,6 @@
 <h3 align="left">Student. Programmer.</h3>
 
 <p align="left"> I'm Dylan, an infomation technology student from Mapúa University. 
-I am very interested in backend development and currently learning SQL and Java.
+I am very interested in backend development and currently learning SQL, Java, and Python Flask.
 Learning new tech is one of my pastimes, because it makes me excited and busy. Someday, I would like to become a back-end developer. If you would like to together, please don't hesitate to contact me.</p>
 </p>
