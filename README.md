@@ -4,5 +4,5 @@
 <br>
 <h3 align="left">Student. Programmer.</h3>
 
-<p align="left">I'm Dylan, an information technology student from Mapúa University. I am very interested in backend development and currently learning SQL, Java, and Python Flask. Someday, I would like to become a back-end developer. If you would like to work together, please don't hesitate to contact me.</p>
+<p align="left">I'm Dylan, an information technology student from Mapúa University. I am very interested in backend development and currently learning SQL, Java, and Python Flask. Someday, I would like to become a back-end developer. If you would like to work together, please don't hesitate to contact me <a href="https://linkedin.com/in/dylantayag">here</a>.</p>
 </p>
