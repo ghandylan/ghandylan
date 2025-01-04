@@ -3,9 +3,5 @@
 <br>
 <h3 align="left">Student. Programmer.</h3>
 
-<p align="left">I'm Dylan, an information technology student from Mapúa University. I am very interested in backend development and am currently learning SQL, Springboot, Flask, and Django and exploring  RESTful APIs. Someday, I would like to become a backend developer. If you would like to work together, please don't hesitate to contact me <a href="https://linkedin.com/in/dylantayag">here</a>.</p>
+<p align="left">I'm Dylan, an information technology student from Mapúa University. I am very interested in Data Engineering and am currently learning SQL and Python. If you would like to work together, please don't hesitate to contact me <a href="https://linkedin.com/in/dylantayag">here</a>.</p>
 </p>
-
-- 🌱 I’m currently learning **Django and Springboot RESTful APIs**, more specifically endpoint authorization and authentication through **JWT** and **session management**
-
-- 🌱 I want to learn about TDD (Test-Driven Development) and automation using CI/CD (Continuous Integration/Continuous Deployment)
